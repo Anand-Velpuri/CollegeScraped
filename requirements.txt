@@ -8,3 +8,5 @@ pandas
 jupyterlab
 beautifulsoup4
 lxml
+feedparser
+fastapi-proxiedheadersmiddleware
